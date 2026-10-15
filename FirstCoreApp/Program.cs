@@ -32,3 +32,5 @@ app.MapControllerRoute(
     //pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+/// new it hub path - https://github.com/SujitKirve-tech/MyFirstCoreProject
